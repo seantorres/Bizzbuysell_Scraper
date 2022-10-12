@@ -13,7 +13,7 @@ url- the postings url
 
 
 # User Interface
-Currently under construction 
+Currently under construction, Using text base but will automate with gui eventually. 
 
 # Scraping information. 
 Given a state or city url from bizbuysell.com the scraper can return the listings and the contents within the listing.
